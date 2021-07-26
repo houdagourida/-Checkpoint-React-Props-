@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+div{
+  margin: buttom 10px;
+}
+
+input [type='chekbox']{
+  margin-left: 10px;
+}
